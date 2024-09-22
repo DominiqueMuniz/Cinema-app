@@ -1,0 +1,13 @@
+<h2>Lista de Filmes</h2>
+<ul class="movie-list">
+  <li *ngFor="let movie of movies">
+    <button (click)="goToDetails(movie.id)">
+      {{ movie.title }} ({{ movie.year }}) - {{ movie.genre }}
+    </button>
+    <p>{{ movie.synopsis }}</p>
+  </li>
+</ul>
+
+<button mat-raised-button color="primary" (click)="goToAddComment()">
+  Adicionar Comentário
+</button>

@@ -1,0 +1,68 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "A Origem",
+        "year": 2010,
+        "genre": "Ficção Científica",
+        "synopsis": "Um ladrão habilidoso recebe uma chance de redenção se conseguir infiltrar a mente de um alvo."
+      },
+      {
+        "id": 2,
+        "title": "O Poderoso Chefão",
+        "year": 1972,
+        "genre": "Crime",
+        "synopsis": "O patriarca de uma dinastia do crime organiza a transferência de poder para seu filho relutante."
+      },
+      {
+        "id": 3,
+        "title": "Forrest Gump",
+        "year": 1994,
+        "genre": "Drama",
+        "synopsis": "A história de um homem simples que testemunha e se envolve em vários eventos históricos."
+      },
+      {
+        "id": 4,
+        "title": "Cazuza: O Tempo Não Pára",
+        "year": 2004,
+        "genre": "Biografia",
+        "synopsis": "A vida do cantor e compositor brasileiro Cazuza, explorando sua carreira e seus desafios."
+      },
+      {
+        "id": 5,
+        "title": "Os Intocáveis",
+        "year": 2011,
+        "genre": "Drama",
+        "synopsis": "Um aristocrata tetraplégico contrata um jovem da periferia para ser seu cuidador."
+      },
+      {
+        "id": 6,
+        "title": "Cidade de Deus",
+        "year": 2002,
+        "genre": "Crime",
+        "synopsis": "A história de um jovem que cresce na favela Cidade de Deus e sua luta por um futuro melhor."
+      },
+      {
+        "id": 7,
+        "title": "O Senhor dos Anéis: A Sociedade do Anel",
+        "year": 2001,
+        "genre": "Fantasia",
+        "synopsis": "Um hobbit embarca em uma jornada épica para destruir um anel maligno."
+      },
+      {
+        "id": 8,
+        "title": "A Vida é Bela",
+        "year": 1997,
+        "genre": "Drama",
+        "synopsis": "Um pai usa sua imaginação para proteger seu filho dos horrores da Segunda Guerra Mundial."
+      },
+      {
+        "id": 10,
+        "title": "O Lobo de Wall Street",
+        "year": 2013,
+        "genre": "Biografia",
+        "synopsis": "A vida de Jordan Belfort, um corretor da bolsa que ascende ao poder e cai em desgraça."
+      }
+    ]
+  }
+  

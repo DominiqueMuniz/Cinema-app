@@ -1,0 +1,57 @@
+/* movie-list.component.css */
+
+h2 {
+    text-align: center;
+    color: #131313;
+    font-family: 'Arial', sans-serif;
+    margin-bottom: 20px;
+  }
+  
+  .movie-list {
+    display: flex; /* Usar flexbox para alinhar os filmes em linha */
+    flex-wrap: wrap; /* Permitir que os filmes quebrem para a próxima linha, se necessário */
+    justify-content: center; /* Centralizar os filmes */
+    padding: 0; /* Remove o padding padrão */
+    list-style-type: none; /* Remove os marcadores da lista */
+  }
+  
+  .movie-list li {
+    background-color: #f9f9f9; /* Fundo claro para cada item */
+    border: 1px solid #ddd; /* Borda leve */
+    border-radius: 5px; /* Bordas arredondadas */
+    padding: 15px; /* Espaçamento interno */
+    margin: 10px; /* Margem entre os itens */
+    width: calc(25% - 20px); /* Largura de cada item (4 itens por linha) */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra leve */
+    transition: background-color 0.3s; /* Efeito de transição */
+  }
+  
+  .movie-list li:hover {
+    background-color: #f1f1f1; /* Efeito de hover */
+  }
+  
+  strong {
+    font-size: 1.2em; /* Aumenta o tamanho do título do filme */
+    color: #fffefe; /* Cor do título */
+  }
+  
+  p {
+    margin-top: 10px; /* Espaço acima da sinopse */
+    color: #4a4a4a; /* Cor da sinopse */
+    font-size: 0.9em; /* Tamanho da fonte da sinopse */
+  }
+  .movie-list button {
+    background-color: #2b3f54; /* Cor do fundo */
+    color: white; /* Cor do texto */
+    border: none; /* Remove borda */
+    padding: 10px 15px; /* Espaçamento interno */
+    cursor: pointer; /* Cursor de mão */
+    border-radius: 5px; /* Bordas arredondadas */
+    margin: 5px 0; /* Espaçamento entre botões */
+  }
+  
+  .movie-list button:hover {
+    background-color: #0056b3; /* Cor ao passar o mouse */
+  }
+  
+  
