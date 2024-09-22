@@ -2,21 +2,34 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
 Este projeto é uma aplicação web desenvolvida em Angular que exibe uma lista de filmes, permitindo aos usuários visualizar detalhes de cada filme e adicionar comentários. A interface é estilizada com Angular Material, oferecendo uma experiência moderna e responsiva. O projeto simula trocas de dados com uma API usando json-server, criando uma interação realista com a lista de filmes.
+
 Funcionalidades
+
 📜 Lista de Filmes: Exibe uma lista de filmes com título, ano, gênero e sinopse.
+
 🔍 Detalhes dos Filmes: Navegação para a página de detalhes de cada filme.
+
 ✍️ Adicionar Comentário: Permite que o usuário adicione comentários sobre os filmes, inserindo nome, email e o comentário.
+
 
 Tecnologias Utilizadas
 Angular: Framework principal para o desenvolvimento do frontend.
+
 Angular Material: Para componentes de UI (caso você utilize no futuro).
+
 JSON-Server: Simula uma API REST para gerenciamento dos dados dos filmes.
+
 CSS: Estilização dos componentes.
 
+
 Pré-requisitos
+
 Node.js (v12 ou superior)
+
 Angular CLI (v12 ou superior)
+
 Git (para versionamento)
+
 
 ## Development server
 
